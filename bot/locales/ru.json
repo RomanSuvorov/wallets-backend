@@ -1,0 +1,24 @@
+{
+  "scenes": {
+    "start": {
+      "logIn": {
+        "new_user": "Добро пожаловать, ${last_name} ${first_name}. Войти на сайт?",
+        "existed_user": "Здравстуйте, ${last_name} ${first_name}. Войти на сайт?"
+      },
+      "no_session_id": "Сессия не является активной"
+    },
+    "accept": {
+      "description": "Вы подтвердили вход на сайт"
+    },
+    "decline": {
+      "description": "Вы отменили вход на сайт"
+    }
+  },
+  "keyboards": {
+    "start": {
+      "accept": "Подтвердить",
+      "decline": "Отклонить"
+    },
+    "back": "Назад"
+  }
+}
